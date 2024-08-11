@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.profile-container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+}
+
+.profile-header {
+    text-align: center;
+    padding: 50px;
+    background-color: #333;
+    color: #fff;
+}
+
+.profile-header img {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+.profile-header h2 {
+    margin: 20px 0 10px;
+}
+
+.profile-header p {
+    margin: 0;
+    font-size: 18px;
+}
+
+.profile-body {
+    padding: 30px;
+}
+
+.profile-body h3 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.profile-body p {
+    color: #555;
+    line-height: 1.6;
+}
+.contact{
+    font-weight: bold;
+    color: #333;
+}
+#contact1{
+    text-decoration: none;
+    font-weight: 700;
+}
+#contact2{
+    text-decoration: none;
+    font-weight: 700;
+}
+.skills {
+    margin: 20px 0;
+}
+
+.skills span {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
